@@ -36,5 +36,20 @@ symbol_for_alphabets_height_4(0,'*   *');
 symbol_for_alphabets_height_5(0,'*   *');
 
 
+// two different characters
+symbol_for_alphabets_height_1(2,'*****');
+symbol_for_alphabets_height_2(2,'*    ');
+symbol_for_alphabets_height_3(2,'*    ');
+symbol_for_alphabets_height_4(2,'*    ');
+symbol_for_alphabets_height_5(2,'*****');
+
+symbol_for_alphabets_height_1(5,'*****');
+symbol_for_alphabets_height_2(5,'*    ');
+symbol_for_alphabets_height_3(5,'*****');
+symbol_for_alphabets_height_4(5,'*    ');
+symbol_for_alphabets_height_5(5,'*    ');
+
+
+
 
 console.log('Test Passed');
