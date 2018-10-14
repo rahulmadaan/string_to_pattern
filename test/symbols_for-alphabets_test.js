@@ -67,4 +67,15 @@ symbol_for_alphabets_height_4(18,'    *');
 symbol_for_alphabets_height_2(5,'*    ');
 
 
+// five more characters and get random symbol set from them (D,G,H,I,K)
+symbol_for_alphabets_height_1(3,'**** ');
+symbol_for_alphabets_height_3(10,'**   ');
+
+symbol_for_alphabets_height_5(8,'*****');
+symbol_for_alphabets_height_4(7,'*   *');
+
+symbol_for_alphabets_height_2(6,'*    ');
+
+
+
 console.log('Test Passed');
