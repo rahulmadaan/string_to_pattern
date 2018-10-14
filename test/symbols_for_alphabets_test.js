@@ -76,6 +76,15 @@ symbol_for_alphabets_height_4(7,'*   *');
 
 symbol_for_alphabets_height_2(6,'*    ');
 
+//six more characters and get random symbol set (M,N,O,P,Q,R)
+symbol_for_alphabets_height_1(14,' *** ');
+symbol_for_alphabets_height_3(16,'**  *');
+
+symbol_for_alphabets_height_5(13,'*   *');
+symbol_for_alphabets_height_4(12,'*   *');
+
+symbol_for_alphabets_height_2(17,'*   *');
+symbol_for_alphabets_height_2(15,'*   *');
 
 
 console.log('Test Passed');
