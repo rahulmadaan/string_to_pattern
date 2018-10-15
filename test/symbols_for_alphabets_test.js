@@ -86,5 +86,17 @@ symbol_for_alphabets_height_4(12,'*   *');
 symbol_for_alphabets_height_2(17,'*   *');
 symbol_for_alphabets_height_2(15,'*   *');
 
+//six more characters and get random symbol set (T,U,V,W,X)
+symbol_for_alphabets_height_1(22,'*   *');
+symbol_for_alphabets_height_3(19,'  *  ');
+
+symbol_for_alphabets_height_5(20,'*****');
+symbol_for_alphabets_height_4(19,'  *  ');
+
+symbol_for_alphabets_height_2(21,'*   *');
+symbol_for_alphabets_height_2(20,'*   *');
+
+
+
 
 console.log('Test Passed');
