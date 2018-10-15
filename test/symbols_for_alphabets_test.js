@@ -96,7 +96,11 @@ symbol_for_alphabets_height_4(19,'  *  ');
 symbol_for_alphabets_height_2(21,'*   *');
 symbol_for_alphabets_height_2(20,'*   *');
 
-
+// for characters Y and Z 
+symbol_for_alphabets_height_2(24,' * * ');
+symbol_for_alphabets_height_3(25,'  *  ');
+symbol_for_alphabets_height_5(24,'*    ');
+symbol_for_alphabets_height_1(25,'*****');
 
 
 console.log('Test Passed');
